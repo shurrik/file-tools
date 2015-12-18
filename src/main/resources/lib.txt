@@ -1,0 +1,8 @@
+
+net.sf.json-lib:json-lib:jar:2.4, 
+net.sf.jacob-project:jacob:jar:1.18-M2, 
+asm:asm:jar:4.0, 
+org.directwebremoting:dwr:jar:3.0.0, 
+com.oracle:ojdbc6:jar:11g, 
+org.apache.struts:struts2-osgi-plugin.jx:jar:2.3.16.3, 
+org.springframework:web.servlet:jar:3.0.5
